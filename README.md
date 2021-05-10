@@ -1,5 +1,5 @@
 # Welcome to my github!
-
+### Here, I'll be sharing some of the projects I worked on in my free time.. Or any other cool repo I bump into.
 <!--
 **yucedincer/yucedincer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
